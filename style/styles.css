@@ -1,0 +1,46 @@
+/* #region General */
+/***************************************
+General
+***************************************/
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* #region main */
+/***************************************
+main
+***************************************/
+
+.highlight {
+  background-color: aqua;
+}
+.bold {
+  font-weight: bolder;
+}
+.underline {
+  text-decoration: underline;
+}
+.non {
+  text-decoration: none;
+}
+
+.show {
+  display: block;
+}
+
+.hide {
+  display: none;
+}
+
+section {
+  margin-top: 2%;
+  margin-left: 2%;
+  border: 5px solid rgb(230, 228, 165);
+  width: 60%;
+  padding: 2%;
+}
+
+/* #endregion */
